@@ -29,8 +29,8 @@ node server.js
 Then, open your browser and navigate to http://localhost:3001 to start using the Note Taker application.
 
 ## Screenshots
-Note Taker Screenshot
 
+![note-img](https://github.com/user-attachments/assets/4c4d71dd-11f6-4e48-9fb4-85bb3264ef6f)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
