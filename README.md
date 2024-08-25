@@ -24,7 +24,9 @@ npm install or npm i
 ## Usage
 To start the server, run the following command:
 
-node server.js
+node server
+or
+npm start
 
 Then, open your browser and navigate to http://localhost:3001 to start using the Note Taker application.
 
