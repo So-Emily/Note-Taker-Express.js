@@ -17,6 +17,8 @@ Note Taker is a simple web application that allows users to create, save, and de
 
 ## Installation
 
+It is deployed here: https://note-taker-express-js-ydeu.onrender.com
+
 To install the necessary dependencies, run the following command:
 
 npm install or npm i
